@@ -1,0 +1,20 @@
+    1  PWD
+    2  LS
+    3  CD..
+    4  CD
+    5  cd MADHU-AITSCLEAR
+    6  MKDIR RAPTORmkdir Raptor
+    7  cd Raptor
+    8  touch first.txt
+    9  echo {1..100}
+   10  echo {567..76}
+   11  touch file{1..10}.txt
+   12  rm file{1-6}.txt
+   13  rm file{2..4}.txt
+   14  echo "HELLO EVERONE">>file1,txt
+   15  echo "jhsghasgjk">>file.txt
+   16  touch myfile{1..100}.cpp
+   17  rm *.cpp
+   18  cat file1.txtmyfile.txt
+   19  cat file1.txtfile2.txt
+   20  history >>hist.txt
